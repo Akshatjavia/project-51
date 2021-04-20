@@ -1,0 +1,37 @@
+.menu{
+    display : flex;
+    justify-content: space-between;
+    padding: 8px;
+    background-color: rgb(243, 222, 32);
+    font-size: 20px;
+}
+
+.bodyimg{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(35, 221, 44);
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin:10px;
+    background-color: black;
+}
+
+body{
+    margin:0;
+}
+
+.origami{
+padding: 20px;
+margin: 50px;
+border-radius: 20px;
+background-color: #ecf02f;
+}
+
+img{
+    border-radius: 20px;
+    background-color:  rgb(106, 9, 216);
+}
